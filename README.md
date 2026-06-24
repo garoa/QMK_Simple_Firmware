@@ -1,1 +1,1 @@
-# QMK_Simple_Firmware
+# QMK Simple Firmware
